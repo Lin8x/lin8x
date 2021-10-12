@@ -12,10 +12,6 @@
 😄 **Pronouns:** He/Him
 <br>
 
-✍️ **I’m currently learning:** C# & Unity<br>
-🤝 **I’m looking to collaborate on:** Anything involving Unity, Linux, and Mobile Dev<br>
-<br>
-
 💪 **My skills & experience:**<br>
 - Unity 2021 & C#<br>
 - Kotlin & AndroidStudio<br>
