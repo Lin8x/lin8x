@@ -37,7 +37,8 @@ Email - danieljalali03@gmail.com<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lin8x&repo=EasyCalculator)](https://github.com/Lin8x/EasyCalculator)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lin8x&count_private=true&theme=tokyonight&showicons=true)]()<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lin8x&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lin8x&theme=tokyonight&showicons=true)]()<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lin8x&layout=compact)]()
+
 
 ---------------------------------------------------------------------
