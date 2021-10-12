@@ -10,7 +10,7 @@
 
 🤓 **My Nickname:** Dan<br>
 😄 **Pronouns:** He/Him
-<br>
+<br><br>
 
 💪 **My skills & experience:**<br>
 - Unity 2021 & C#<br>
