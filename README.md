@@ -6,12 +6,11 @@
 🤓 **My Nickname:** Dan<br>
 😄 **Pronouns:** He/Him
 <br>
-<br>
+
 ✍️ **I’m currently learning:** C# & Unity<br>
 🤝 **I’m looking to collaborate on:** Anything involving Unity, Linux, and Mobile Dev<br>
 <br>
 
-<br>
 💪 **My skills & experience:**<br>
 - Unity 2021 & C#<br>
 - Kotlin & AndroidStudio<br>
@@ -21,7 +20,6 @@
 - Minecraft Server Development<br>
 - MTA: Windows Operating System Fundamentals Certificate<br>
 - Source Film Maker (SFM)
-
 <br>
 
 🚀 **See my other work here:**
