@@ -3,9 +3,6 @@
 ### <p align="center"> Hello There! 👋 </p>
 <br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lin8x&count_private=true&theme=tokyonight&showicons=true)]()<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lin8x&langs_count=5&theme=tokyonight)]()
-
 🤓 **My Nickname:** Dan<br>
 😄 **Pronouns:** He/Him
 <br>
@@ -13,6 +10,10 @@
 ✍️ **I’m currently learning:** C# & Unity<br>
 🤝 **I’m looking to collaborate on:** Anything involving Unity, Linux, and Mobile Dev<br>
 <br>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lin8x&count_private=true&theme=tokyonight&showicons=true)]()<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lin8x&langs_count=5&theme=tokyonight)]()
+
 <br>
 💪 **My skills & experience:**<br>
 - Unity 2021 & C#<br>
