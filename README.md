@@ -8,7 +8,7 @@
 ✍️ **I’m currently learning:** C# & Unity<br>
 🤝 **I’m looking to collaborate on:** Anything involving Unity, Linux, and Mobile Dev<br>
 
-💪 **My skills & experience:**<br>
+💪 **My skills & experience:**
 - Unity 2021 & C#<br>
 - Kotlin & AndroidStudio<br>
 - Java 8<br>
