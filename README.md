@@ -2,6 +2,7 @@
 
 ### Hello There! 👋
 
+<br>
 🤓 **My Nickname:** Dan<br>
 😄 **Pronouns:** He/Him
 <br>
@@ -31,5 +32,6 @@
 Discord - Par1234#9925<br>
 Email - danieljalali03@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/daniel-jalali-668266221/)
+<br>
 
 ---------------------------------------------------------------------
