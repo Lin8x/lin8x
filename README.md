@@ -1,8 +1,8 @@
 ---------------------------------------------------------------------
 
 ### <p align="center"> Hello There! 👋 </p>
-
 <br>
+
 🤓 **My Nickname:** Dan<br>
 😄 **Pronouns:** He/Him
 <br>
