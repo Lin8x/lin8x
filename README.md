@@ -3,6 +3,8 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lin8x&theme=github_dark&showicons=true)]()<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lin8x&layout=compact&theme=github_dark)]() [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lin8x&theme=github_dark&repo=EasyCalculator)](https://github.com/Lin8x/EasyCalculator)
 
+---------------------------------------------------------------------
+
 ### <p align="center"> Hello There! 👋 </p>
 <br>
 
