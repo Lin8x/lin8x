@@ -1,16 +1,21 @@
-### Hi there 👋
+---------------------------------------------------------------------
 
-<!--
-**Lin8x/lin8x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello There! 👋
 
-Here are some ideas to get you started:
+My name is Daniel J (lin8x).
+You can look around to see my work on different projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------
+
+🤓 My Nickname: Dan
+😄 Pronouns: He/Him
+
+🌱 I’m currently learning: C# & Unity
+👯 I’m looking to collaborate on: Anything involving Unity, Linux, and Mobile Dev
+
+📫 How to reach me:
+Discord - Par1234#9925
+LinkedIn - https://www.linkedin.com/in/daniel-jalali-668266221/
+Email - danieljalali03@gmail.com
+
+---------------------------------------------------------------------
