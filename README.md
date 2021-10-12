@@ -11,9 +11,6 @@
 🤝 **I’m looking to collaborate on:** Anything involving Unity, Linux, and Mobile Dev<br>
 <br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lin8x&count_private=true&theme=tokyonight&showicons=true)]()<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lin8x&langs_count=5&theme=tokyonight)]()
-
 <br>
 💪 **My skills & experience:**<br>
 - Unity 2021 & C#<br>
@@ -37,5 +34,10 @@ Discord - Par1234#9925<br>
 Email - danieljalali03@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/daniel-jalali-668266221/)
 <br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lin8x&repo=EasyCalculator)](https://github.com/Lin8x/EasyCalculator)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lin8x&count_private=true&theme=tokyonight&showicons=true)]()<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lin8x&langs_count=5&theme=tokyonight)]()
 
 ---------------------------------------------------------------------
