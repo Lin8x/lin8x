@@ -26,7 +26,7 @@
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-<br>
+<br><br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lin8x&theme=github_dark&showicons=true)]()<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lin8x&layout=compact&theme=github_dark)]() [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lin8x&theme=github_dark&repo=EasyCalculator)](https://github.com/Lin8x/EasyCalculator)
