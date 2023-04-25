@@ -69,7 +69,7 @@
 ### <p align="center"> Game Projects </p>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hash-Studios-LLC&theme=github_dark&repo=MathGame)](https://github.com/Hash-Studios-LLC/MathGame) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lin8x&theme=github_dark&repo=MathGame)](https://github.com/Hash-Studios-LLC/MathGame)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lin8x&theme=github_dark&repo=unrealproject-firstproject)](https://github.com/Lin8x/unrealproject-firstproject)
 
