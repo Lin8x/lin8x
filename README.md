@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/Lin8x/lin8x/blob/main/Images/DanielJalaliBanner.png" width="800" hspace="20"/>
+  <img src="https://github.com/Lin8x/lin8x/blob/main/Images/DanielJalaliBanner.png" width="700" hspace="20"/>
 </p>
 <br>
 
