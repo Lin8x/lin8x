@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/Lin8x/VRCDownloadString/blob/main/Images/HashStudiosPatronSyncBanner.png" width="600" hspace="20"/>
+  <img src="https://github.com/Lin8x/lin8x/blob/main/Images/DanielJalaliBanner.png" width="600" hspace="20"/>
 </p>
 <br>
 
