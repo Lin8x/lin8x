@@ -47,14 +47,13 @@
 <br><br>
 
 💪 **My skills & experience:**<br>
-- Unity 2021 & C#<br>
-- Kotlin & AndroidStudio<br>
+- Unreal Engine & C++
+- Unity & C#<br>
+- Kotlin & Android Studio<br>
 - Java 8<br>
 - Python2 & Python3<br>
 - Linux: Debian, Kali, & Ubuntu-Based<br>
-- Minecraft Server Development<br>
-- MTA: Windows Operating System Fundamentals Certificate<br>
-- Source Film Maker (SFM)
+- GitHub & Git
 <br>
 
 🚀 **See my other work here:**
@@ -63,8 +62,6 @@
 <br>
 
 📫 **How to reach me:**<br>
-- Discord - Par1234#9925<br>
-- Email - danieljalali03@gmail.com<br>
 - [LinkedIn](https://www.linkedin.com/in/daniel-jalali-668266221/)
 <br>
 
