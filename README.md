@@ -50,6 +50,8 @@
 - 🌱 **Currently Learning:** Advanced AR/VR frameworks and machine learning applications in gaming  
 - 🛠️ **Tools I Use:** Unity, C#, Vuforia, GitHub, Plastic SCM, Blender, MySQL  
 
+<br>
+
 📫 **How to reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/daniel-jalali-668266221/)  
 
