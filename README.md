@@ -20,11 +20,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-jalali-668266221/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/channel/UCdoYOoWANevwMCS6knggMdA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://discord.gg/yourserverlink"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://play.google.com/store/apps/developer?id=YourName"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>
   <a href="https://github.com/Lin8x"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://lin8x.itch.io"><img src="https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/></a>
-  <a href="https://patreon.com/yourprofile"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>
 </p>
 
 <p align="center">
