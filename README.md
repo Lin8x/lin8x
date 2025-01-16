@@ -17,25 +17,13 @@
 
 ### 🌐 **Connect with Me**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-jalali-668266221/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/channel/UCdoYOoWANevwMCS6knggMdA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://github.com/Lin8x"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://lin8x.itch.io"><img src="https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/youtube/channel/views/UCdoYOoWANevwMCS6knggMdA?label=YouTube%20Channel%20Views&style=flat-square" alt="YouTube Channel Views"/>
-</p>
+<p align="center"> <a href="https://lin8x.github.io/" target="_blank"><img src="https://img.shields.io/badge/My%20Website-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="My Website"></a> <a href="https://www.linkedin.com/in/daniel-jalali-668266221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p><br>
 
 ---
 
 ### 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=lin8x&theme=github_dark&showicons=true" alt="GitHub Stats"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lin8x&layout=compact&theme=github_dark" alt="Top Languages"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lin8x&theme=github_dark&showicons=true" alt="GitHub Stats"/><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lin8x&layout=compact&theme=github_dark" alt="Top Languages"/> <br><br>
 
 ---
 
@@ -51,9 +39,6 @@
 - 🛠️ **Tools I Use:** Unity, C#, Vuforia, GitHub, Plastic SCM, Blender, MySQL  
 
 <br>
-
-📫 **How to reach me:**  
-- [LinkedIn](https://www.linkedin.com/in/daniel-jalali-668266221/)  
 
 ---
 
